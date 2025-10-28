@@ -5,7 +5,7 @@ import time
 
 class CaptureManager(object):
     """
-    Clase para gestionar la captura de video desde una fuente (ej. webcam).
+    Clase para gestionar la captura de video desde una fuente.
 
     Maneja la captura de frames, cálculo de FPS, previsualización en ventana,
     guardado de imágenes y grabación de video. Soporta mirroring de previsualización
