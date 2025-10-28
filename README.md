@@ -65,9 +65,7 @@ Puedes instalarlos fácilmente con:
 
 pip install opencv-python numpy scipy
 
-### 🛠️ Instalación rápida (opcional)
-
-Si prefieres mantener tu entorno limpio, puedes crear un entorno virtual:
+---
 
 ## Entorno virtual
 
@@ -75,6 +73,8 @@ Si prefieres mantener tu entorno limpio, puedes crear un entorno virtual:
 - Activar entorno → venv\Scripts\activate 
 - Instalar dependencias → pip install opencv-python numpy scipy 
 - Para iniciar la aplicación → python cameo.py
+
+---
 
 ## ⌨️ Controles del teclado
 
@@ -87,6 +87,7 @@ Durante la ejecución del programa, puedes usar las siguientes teclas:
 | Tap     | Inicia o detiene la grabación de video |
 | q/Esc   | Cierra la aplicación                   |
 
+---
 
 ## 💡 Ejemplo de uso
 
@@ -106,4 +107,6 @@ Proyecto basado en ejercicios y estructura del libro
 *"OpenCV Computer Vision Projects with Python – Learning Path"* (Joseph Howse, 2016).
 
 *"Del código a la cámara: una herramienta visual interactiva para aplicar procesamiento de imagen en tiempo real."*
+
+---
 
